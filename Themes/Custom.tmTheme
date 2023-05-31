@@ -678,6 +678,17 @@
 				<string>#FFFFFF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML data-xxx attributes key</string>
+			<key>scope</key>
+			<string>meta.attribute.data-x &gt; entity.other.attribute-name.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DCF710</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>E45782AD-B874-436D-A25A-0649CB9C1DA3</string>
