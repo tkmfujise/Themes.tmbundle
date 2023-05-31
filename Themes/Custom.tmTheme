@@ -656,6 +656,17 @@
 				<string>#C8E4FD</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON Key</string>
+			<key>scope</key>
+			<string>meta.structure.dictionary.json &gt; string.quoted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DCF710</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>E45782AD-B874-436D-A25A-0649CB9C1DA3</string>
