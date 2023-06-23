@@ -3,4 +3,8 @@ TextMate custom theme
 
 `~/Library/Application\ Support/TextMate/Bundles/Themes.tmbundle`
 
-<img width="686" alt="screenshot" src="https://user-images.githubusercontent.com/106900036/235686736-fcc3e32d-a462-42a8-ad35-22a948204315.png">
+### Gessetti.tmTheme (dark theme)
+<img width="612" alt="image" src="https://github.com/tkmfujise/Themes.tmbundle/assets/106900036/43253ca7-974e-4407-a5cc-2795271543b1">
+
+### Pennarelli.tmTheme (light theme)
+<img width="614" alt="image" src="https://github.com/tkmfujise/Themes.tmbundle/assets/106900036/d6fdf9a8-6e81-4114-8074-3d3e04fd8c1b">
