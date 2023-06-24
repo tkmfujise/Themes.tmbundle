@@ -382,6 +382,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Support Function Macro</string>
+			<key>scope</key>
+			<string>support.function.macro</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CD3B3B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Punctuation Section Embedded</string>
 			<key>scope</key>
 			<string>punctuation.section.embedded</string>

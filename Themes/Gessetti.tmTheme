@@ -374,6 +374,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Support Function Macro</string>
+			<key>scope</key>
+			<string>support.function.macro</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF6767</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Support.constant</string>
 			<key>scope</key>
 			<string>support.constant</string>
